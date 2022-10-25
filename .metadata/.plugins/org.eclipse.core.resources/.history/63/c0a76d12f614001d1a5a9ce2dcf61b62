@@ -1,0 +1,14 @@
+package com.brian.daikichi_routes;
+
+import org.springframework.boot.SpringApplication;
+
+
+
+
+@SpringBootApplication
+public class DaikichiApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DaikichiApplication.class, args);
+	}
+}
